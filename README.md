@@ -1,5 +1,7 @@
 # 📂 Filester Video Downloader – Dynamic‑URL Extractor
 
+Automate media file downloads from Filster.me using Python. Handles single, bulk, and file-list URL inputs in one script.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -12,7 +14,11 @@
 # Clone the repo
 git clone https://github.com/oliveiceteaavalanche/filester-file-downloader.git
 cd filester-file-downloader
+```
 
+It is recommended to create a python virtual environment. Refer to [python docs to create an environment](https://docs.python.org/3/library/venv.html).
+
+```bash
 # Install Python dependencies
 pip install -r requirements.txt
 
