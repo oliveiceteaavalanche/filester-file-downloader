@@ -1,6 +1,6 @@
 # 📂 Filester Video Downloader – Dynamic‑URL Extractor
 
-Automate media file downloads from Filster.me using Python. Handles single, bulk, and file-list URL inputs in one script.
+Automate media file downloads from Filester.me using Python. Handles single, bulk, and file-list URL inputs in one script.
 
 ## 🚀 Getting Started
 
